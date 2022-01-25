@@ -1,0 +1,6 @@
+samples/.vs
+*.rar
+*.7z
+*.zip
+samples/Pools/tmp
+samples/Pools/bin
